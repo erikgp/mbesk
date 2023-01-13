@@ -2,7 +2,7 @@
 id: aubwaoqee05bl58f2nz0zyt
 title: Stereotaktiska biopsier och markeringar
 desc: ''
-updated: 1671377985853
+updated: 1673359984338
 created: 1671112822931
 ---
 
@@ -31,7 +31,7 @@ Om biopsi mot mikroförkalkningar, rtg biopsiprep för att se om fått med förk
 Ange i utlåtande hur många biopsier med förkalkningar.
 
 Efteråt, nållägesbilder! (åtminstone vid 1 tillfälle om biopsi)  
-Nållägesbild behövs inte om man gör stereotaktisk mot kalk eftersom px röntgas efter undersökningen
+Nållägesbild behövs inte om man gör stereotaktisk mot kalk eftersom px röntgas efter undersökningen utan görs om stereotaktisk biosi utförs mot mammografiskt synbar förändring utan kalk.
 
 Alltid vanlig mammo efter markering för att kunna jmf med bilder innan.
 
