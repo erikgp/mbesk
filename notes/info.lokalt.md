@@ -1,10 +1,4 @@
----
-id: eqkwl7s20u614hthfx9rh2b
-title: Lokalt
-desc: ''
-updated: 1672820248902
-created: 1671107206028
----
+# Lokalt
 
 ## Allmän information
 

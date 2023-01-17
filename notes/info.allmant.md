@@ -1,15 +1,6 @@
----
-id: kwqky3y9zpzcfbujy8meswy
-title: Allmänt
-desc: ''
-updated: 1673424004241
-created: 1671110422422
----
+# Allmän information
 
 ## Blandat
-
-[[info.lokalt.preparat]]  
-[[patologi.fibroadenom]]
 
 ## Bra länkar
 
@@ -44,13 +35,5 @@ Om palpabelt och ej ses på ul och ej ses på mammo ==> remiss på cytologi av a
 Om 0 här (inget på mammo, inget på ul, inget palpationsfynd) ==> ej till cytologi (dvs då ej nödvändigtvis 3-diagnostik)
 
 
-## Utlåtande
-
-![[utlatande]]
-
-## Kodning av fynd
-
-Notera att vi i Sv inte använder BI-RADS-kodning.  
-![[kodning_fynd]]
 
 

@@ -9,7 +9,7 @@ created: 1671519884518
 ## Utförande
 
 - Görs stereotaktiskt
-- Vill i allmänhet att ligger i mitten av öppet område
+- Vill i allmänhet att ligger i mitten av "öppet" område vid bopsierna
 - Som vanligt stereotaktisk markering av område med markering av område (i detta fall endast 1 område)
 - Nål: Bard Encor Enspire (10G) - hel (ev halv om ytlig förändring) - Hela slaglängden måste ligga under hudytan pga vakuum
 - Endast en markering
@@ -39,7 +39,7 @@ created: 1671519884518
   c. öppnar sig då  
   d. align markör med biopsiapparat (gul mot röd)  
   e. tryck ned markörgrej  
-  f. rotera för att inte suga in markör  
+  f. rotera ("rotate") för att inte suga in markör  
   g. stäng genom att trycka med fotpedal ("sample")  
   h. verifiera markörläget med mammografi  
 - lyft hela biopsiapparaten när klar

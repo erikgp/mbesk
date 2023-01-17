@@ -1,10 +1,4 @@
----
-id: viegs3vf5ps2op6t3n3izfq
-title: Utlåtande - riktlinjer
-desc: ''
-updated: 1671190350268
-created: 1671189330088
----
+# Utlåtande - riktlinjer
 
 ## Utlåtanden
 
@@ -30,7 +24,7 @@ Diktera mammo på mammokort, ul på ul-kort, biopsi etc på biopsi-kort.
 ### Biopsi/FNP
 
 1. mot vad. antal biopsier.
-1. utbyte typ (kalk om stereo)
+1. utbyte typ (kalk om stereo, vätska - mängd och "färg")
 1. cystor - försvinner de vid aspiration. Om palpfynd av cysta, i så fall om det försvinner
 
 

@@ -1,14 +1,8 @@
----
-id: 002l6f88tayyjvs0gwo9s6y
-title: Cystor
-desc: ''
-updated: 1673635085081
-created: 1673608702764
----
+# Cystor
 
 ## Cystor
 
-Inte säller flera, och i båda brösten, vilket kan underlätta diagnos
+Inte sällan flera, och i båda brösten, vilket kan underlätta diagnos
 
 ### mammografiskt:
 - välavgränsade (om inte annat parenkym) och

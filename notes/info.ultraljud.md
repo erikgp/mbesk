@@ -1,10 +1,4 @@
----
-id: diba9edfjdzf4m42u7q32xb
-title: Ultraljud
-desc: ''
-updated: 1673967168076
-created: 1671111817137
----
+# Ultraljud
 
 ## Ul enligt BZ
 
@@ -15,3 +9,4 @@ Systematik:
 
 
 OBS! Om det ej finns palpationsfynd eller något fokalt, så kör ej ultraljud.
+

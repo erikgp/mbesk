@@ -6,23 +6,18 @@ updated: 1673959828136
 created: 1671112247464
 ---
 
+# Trådmarkering resp markering med jodkorn
+
+OBS! Alla markeringar kan läggas i tumören, inkl. jodkord, om förändringen inte är väldigt liten.
+
 ## Extra information angående indikering/markering av tumör med tråd, jodkorn resp coil
 
-- Speciellt med tråd - får kort trådväg så att operatören får kortare väg.
-- Markering med tråd: Vid mikroförklakningar ofta stereotaktisk markering med tråd där 2 markeringar görs för att visa utbredning av mikroförkalkningar.  
+### Tråd
+
+- Speciellt med tråd - eftersök kort trådväg så att operatören får kortare väg.
+- Markering med tråd: Vid mikroförklakningar ofta stereotaktisk markering med tråd, ibland där 2 markeringar vid mikroförkalkningarnas begränsningar görs för att visa utbredning av mikroförkalkningar.  
   Oftast stereotaktiskt (speciellt markering med tråd).
-- Markering med jodkorn: Görs i allmänhet med ul precis i anslutning till tumören.  
-  OBS! Alla markeringar kan läggas i tumören, inkl. jodkord, om förändringen inte är väldigt liten. (Tidigare: Jodkornet skall EJ läggas i tumören utan precis invid densamma.)
-  (Kan vara svårt att använda jodkorn - radioaktiva - för att indikera flera områden.)  
-  Minst 2 cm mellan förändringar för att kunna använda jodkorn vid båda.
-- indikering med coil - inför neoadjuvant behandling
-- cc + lm efter för att verifiera läget av tråd, jodkorn resp övrig markering
 
-Efter:
-1. markering på huden ovan förändringar (då syftet är att indikera tumörläge inför operation)  
-  Patienten skall ligga i operationsläge med armen rakt ut åt sidan vid markeringen, och huvudet i mer neutralt läge.
-
-## Speciellt för markering med tråd
 
 Görs i princip alltid stereotaktiskt (då de i allmänhet läggs pga mikroförkalkningar).
 
@@ -37,5 +32,22 @@ Görs i princip alltid stereotaktiskt (då de i allmänhet läggs pga mikroförk
 - mammografi efter för att verifiera läget
 - markering i hud av läget av ankaret
 
+
+### Jodkorn
+
+- Markering med jodkorn: Görs i allmänhet med ul i tumören.  
+  (Kan vara svårt att använda jodkorn - radioaktiva - för att indikera flera områden.)  
+  Minst 2 cm mellan förändringar för att kunna använda jodkorn vid båda.
+
+### coil
+
+- indikering med coil - inför neoadjuvant behandling
+
+## Efter att indikering med tråd, jodkorn eller coil utförts
+
+cc + lm efter för att verifiera läget av tråd, jodkorn resp övrig markering
+
+Om indikeringen görs inför operation, så markering på huden ovan förändringar (med syfte att indikera tumörläget inför operation).
+Patienten skall ligga i operationsläge med armen rakt ut åt sidan vid markeringen, och huvudet i neutralt läge.
 
 

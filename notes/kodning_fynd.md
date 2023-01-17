@@ -1,10 +1,4 @@
----
-id: ehczkzlnkb6wibful9ofv97
-title: Kodning av fynd vid mammografi och ul
-desc: ''
-updated: 1671190212294
-created: 1671189675039
----
+# Kodning av fynd vid mammografi och ul
 
 ## Svenskt system för kodning av fynd
 

@@ -1,10 +1,4 @@
----
-id: 6meqy9e0w826msedtxdef5k
-title: Indikering med coil
-desc: ''
-updated: 1671377524313
-created: 1671112164705
----
+# Indikering med coil
 
 Ibland kan det vara oklart om det som tex ses på ultraljud motsvarar ett mammografifynd.
 Ett sätt att lösa detta är att lägga in en liten coil med ultraljud och sedan verifiera läget av coil med efterföljande mammografifynd.
