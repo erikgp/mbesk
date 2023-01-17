@@ -2,7 +2,7 @@
 id: 67qlgy6asw5zhn75xi5pv1m
 title: Ultraljudsvägledda biopsier
 desc: ''
-updated: 1671188887861
+updated: 1673964758470
 created: 1671111991015
 ---
 
@@ -27,7 +27,7 @@ Om nära mamill, ligg så långt från mamill som möjligt för att minska obeha
   (allergi? blodförtunnande (kör ändå))
 - antal biopsier:
   * 2-3 MNB
-  * litet rör "scan-b" (om tumör > 2 cm eller misst lgl i axill)
+  * litet rör "scan-b" (om tumör > 2 cm eller misst lgl i axill) - scan b ska ej tas mer. Istället tas prov GEX, vilket är samma prov i rör och endast när remiss för detta kommer.
   (* om trippel-negativ kommer patienten tillbaka och då 4 extra biopsier om remiss för detta - studie) 
 - FNP mot ev lgl i axill
 
