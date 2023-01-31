@@ -1,9 +1,17 @@
 # Galaktografi
 
+## Indikation
+
+- spontan sekretion,
+- av blodtillblandad eller serös vätska, 
+- som är ensidig, och
+- som kommer från en enda gång
+
+
 ## Utförande
 
 1. Använd förstoringsglas
-1. Tryck för att få sekretion från mamill så att gång som det kommer sekret från kan lokaliseras
+1. Tryck för att få sekretion från mamill så att den gång som det kommer sekret från kan lokaliseras
 1. Ev utstryck/cytologi av det som kommer ut
 1. Böj till nål så cirka 90 grader
 1. Se till att: INGEN LUFT I NÅLEN

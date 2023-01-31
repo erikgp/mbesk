@@ -21,7 +21,7 @@ created: 1671111991015
 8. tag i allmänhet 2 biopsier (som är ok)
 9. nållägesbild  
 
-Om vätska i förädnringen, börja med finnål.  
+Om vätska i förändring, börja med finnål.  
 Om nära mamill, ligg så långt från mamill som möjligt för att minska obehag för patienten. Använd kort slaglängd
 
 Bedövning:
@@ -31,6 +31,7 @@ Bedövning:
 - antal biopsier:
   * 2-3 MNB
 - FNP mot ev lgl i axill
+- Om misstanke om lymfom, tag rör flödescytometri vid FNP
 
 - MNB oftast med 14G, ibland 16G
 
