@@ -14,7 +14,7 @@ Vid stereotaktisk markering med **tråd** (ej coil) - sänk maskinen manuellt 5 
 1. b. välj nål (biopsi - 14 eller 12G, ofta räcker 14G, nästan aldrig 16G, nållängd efter djup av förändring) - ofta 22 mm slaglängd - bryr sig ej om varning för hud  
    - För stereotaktisk biopsi: välj nål BARD 14G (grön), alt 12G (blå) - den senare om diffus/gles svåravgränsbar kalk, längd 10 alt 13 cm (apparaten anger vilket som är lämpligt), slaglängd 15 alt 22 mm (apparaten anger)
    - indikering med tråd: somatex 120 el 90 - indikeringstråd
-  .- coils - somatex tumorc (ganska stor, ser också på ul), 
+   - coils - somatex tumorc (ganska stor, ser också på ul), 
    - vacuumbiopsinålar - olika att välja - är i allmänhet 10G
 1. skicka (från nålväljarläge)
 1. Om trådmarkering - dra ner 5 mm (djupare, på LCD-skärmen vid själva biopsiutrustningen)
