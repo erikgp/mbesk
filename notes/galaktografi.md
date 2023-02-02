@@ -7,6 +7,9 @@
 - som är ensidig, och
 - som kommer från en enda gång
 
+## Att notera
+
+Om blodig sekretion rekommenderas, i den händelse galaktografi och övrigt utredning inte visat något (inkl utstryk), hänvisning till bröstmottagningen, dock ej enligt SVF (ställningstagande till MR).
 
 ## Utförande
 
