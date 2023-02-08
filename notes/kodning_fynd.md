@@ -25,13 +25,14 @@ Detta stämmer:
 ### Ev kommande
 
 Nedan stämmer ej:
-- 0 = ofullständig us
+- 0 = ofullständig us eller ej bedömbar undersökning
 - 1 = inget/normalt fynd
 - 2 = fynd, men benignt
 - 3 = viss misstanke om malignitet, ej specificerat men ung <50%
 - 4 = hög misstankt om malignitet, ej spec men ung >50%
 - 5 =  mkt hög misstanke om malignitet
-- 6 = fastslagen malignitet, dvs patologiskt visad sådan
+- 6 = fastslagen malignitet, dvs patologiskt visad sådan - tidigare verifierad bröstcancer
+- 8 = inte undersökt
 
 
 ## BI-RADS
