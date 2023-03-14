@@ -27,7 +27,10 @@ Notera att för att kontrollera nålläget vid vertikal approach så måste 2D b
 Det finns vissa fördelar med lateral approach, som att nållägeskontroll kan göras med tomosyntes.
 
 Speciell platta under som lyfter bröstet från sensorn.  
-Speciell platta över utan "hål" för att kunna föra in biopsiinstrumentet.
+Speciell platta över utan "hål" för att kunna föra in biopsiinstrumentet.  
+Observera att speciall platta såväl ovan som under måste användas. Detta måste anges till maskinen så att denna kan ta med detta i beräkningarna tex vad gäller förstoringsgrad.  
+Såsom anges ovan kan nålläges-kontroll göras med tomosyntes.
+
 
 I övrigt som ovan.
 
